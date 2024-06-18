@@ -8,7 +8,7 @@ section Background
 section Setup
     Create AWS Account: aws-setup, 2024-06-14, 5d
 section Open-MPIC
-    Run Open-MPIC: open-mpic, after aws-setup, 1w
+    Run Open-MPIC: open-mpic, 2024-06-21, 1w
 section Attacks
     Attacks against Open-MPIC: after open-mpic, 1w
     Attacks against LE: le-attacks, 2024-07-01, 1w
