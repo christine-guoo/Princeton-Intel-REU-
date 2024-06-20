@@ -10,10 +10,13 @@ section Setup
 section Open-MPIC
     Run Open-MPIC: open-mpic, 2024-06-21, 5d
 section Attacks
-    Attacks against LE: le-attacks, 2024-06-21, 1w
-    Attacks against Google: after le-attacks, 1w
+    Manual attack against LE: manual-le, 2024-06-21, 2d
+    Scripted attack against LE: scripted-le, after manual-le, 5d
+    Manual attack against Google: scripted-google, after scripted-le, 2d
+    Scripted attack against Google: after scripted-google, 5d
     Learn Network Topology: 2024-06-26, 1w
-    1st Attack against Open-MPIC: 2024-07-03, 1w
+    Manual attack against Open-MPIC: manual-mpic, 2024-07-03, 2d
+    Scripted attack against Open-MPIC: after manual-mpic, 5d
     Test diff number of VPs and locations: 2024-07-10, 1.5w
 section Presentation
     Complile data: data, after le-attacks, 3.5w
