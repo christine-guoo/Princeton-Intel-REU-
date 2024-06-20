@@ -12,10 +12,11 @@ section Open-MPIC
 section Attacks
     Attacks against LE: le-attacks, 2024-06-21, 1w
     Attacks against Google: after le-attacks, 1w
-    Learn Network Topology and Run 1st Attack against Open-MPIC: 2024-06-26, 2w
-    Attack Open-MPIC w/ different number of VPs and locations: 2024-07-10, 1.5w
+    Learn Network Topology: 2024-06-26, 1w
+    1st Attack against Open-MPIC: 2024-07-03, 1w
+    Test diff number of VPs and locations: 2024-07-10, 1.5w
 section Presentation
-    Complile data: data, 2024-07-19, 3d
-    Make Presenation: slides, after data, 3d
+    Complile data: data, after le-attacks, 3.5w
+    Make Presenation: slides, 2024-07-20, 5d
     Practice presenting: after slides, 2d
 ```
